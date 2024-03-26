@@ -1,0 +1,24 @@
+{
+  "name": "festivalmusica",
+  "version": "1.0.0",
+  "description": "Projecti developed with HTML, SASS, GULP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/murrugarra/musicFestival.git"
+  },
+  "keywords": [
+    "HTML",
+    "SASS",
+    "GULP"
+  ],
+  "author": "murrugarra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murrugarra/musicFestival/issues"
+  },
+  "homepage": "https://github.com/murrugarra/musicFestival#readme"
+}
